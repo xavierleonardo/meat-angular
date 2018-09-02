@@ -62,12 +62,12 @@
       "check-whitespace"
     ],
     "quotemark": [
-      true,
+      false,
       "single"
     ],
     "radix": true,
     "semicolon": [
-      "always"
+      false
     ],
     "triple-equals": [
       true,
